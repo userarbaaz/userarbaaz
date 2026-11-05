@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github.png" alt="Arbaaz — custom GitHub banner" width="100%" />
+<img src="github.png" alt="Arbaaz — custom GitHub banner" width="100%" />
 
 # Hi, I'm Arbaaz 👋
 
